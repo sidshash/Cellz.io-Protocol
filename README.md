@@ -3,7 +3,7 @@ Packets sent by client to server
 
 ## Client => Server
 
-| OnOpen        | Type         |  Value            |
+| Init        | Type         |  Value            |
 | ------------- |:------------:| -----------------:|
 | 1             | Uint8Array   | [254, 5, 0, 0, 0] |
 |2            | Uint8Array   | [255, 0, 0, 0, 0] |
