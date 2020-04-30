@@ -1,4 +1,4 @@
-# Cellz.io-Protocols
+# Cellz.io-Protocol
 Packets sent by client to server
 
 ## Client => Server
